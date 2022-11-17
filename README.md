@@ -5,6 +5,7 @@ more changes to my feature branch
 
 ## Installation Guide
 
+a new change
 Sample installation guide
 
 Adding some more text for rebasing example
