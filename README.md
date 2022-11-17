@@ -1,6 +1,7 @@
 # DEMO APP
 
 Sample readme 
+quick change
 more changes to my feature branch
 
 ## Installation Guide
